@@ -11,3 +11,5 @@ const nama = "galuh"
 const isPusing = true
 
 const alamat = "balokang"
+
+const isMudah = false
