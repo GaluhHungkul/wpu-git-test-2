@@ -13,3 +13,5 @@ const isPusing = !false
 const alamat = "balokang"
 
 const isMudah = false
+
+const isDead = false
