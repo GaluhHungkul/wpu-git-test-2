@@ -8,7 +8,7 @@ const bagi = (a,b) => a / b
 
 const nama = "galuh"
 
-const isPusing = true
+const isPusing = !false
 
 const alamat = "balokang"
 
