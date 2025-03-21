@@ -14,4 +14,5 @@ const alamat = "balokang"
 
 const isMudah = false
 
-const isDead = true
+const isDead = false
+
